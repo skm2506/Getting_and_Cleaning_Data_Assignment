@@ -1,5 +1,8 @@
 # Getting_and_Cleaning_Data_Assignment_Final_Submission
+
 Final Peer Graded assignment submission for Getting and Cleaning Data Course from Data Science Specialization.
+
+
 As per assignment guide lines I have created the R. script, which does the following task.
 Download the dataset if it does not already exist in the working directory
 Load the activity and feature info
