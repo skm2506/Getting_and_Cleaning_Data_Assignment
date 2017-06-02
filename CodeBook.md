@@ -1,5 +1,5 @@
 ---
-title: "Cookbook file for Final assignment"
+# Title: "Cookbook for Final assignment"
 ---
 ## Identifier:
 ```{r}
